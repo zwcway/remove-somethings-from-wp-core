@@ -3,6 +3,7 @@
 Plugin Name: 去掉无用的东西
 Description: 从 WP 内核中去除无用的东西，以提高运行速度。
 Author: zwcway
+Version: 1.0
 */
 defined('ABSPATH') or exit;
 
